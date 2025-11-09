@@ -1,15 +1,5 @@
-<p align="center">
-  <picture>
-    <source 
-      media="(max-width: 600px)" 
-      srcset="https://github.com/user-attachments/assets/dc7e9bbb-9814-4994-aaae-2e86be7bf17c">
-    
-    <source 
-      media="(min-width: 601px)" 
-      srcset="https://github.com/user-attachments/assets/108daade-5ac6-4a35-b77e-75b3db158772">
-    
-    <img 
-      src="https://github.com/user-attachments/assets/108daade-5ac6-4a35-b77e-75b3db158772" 
-      alt="Minha Animação Responsiva">
-  </picture>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuRN-sU7k4ZiT-8RrlBZQWlUOhiX7qDaBl4A9MJuvscOX156LCIoITFq_hW9vfL61VG04&usqp=CAU">
+  <source media="(prefers-color-scheme: light)" srcset="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuRN-sU7k4ZiT-8RrlBZQWlUOhiX7qDaBl4A9MJuvscOX156LCIoITFq_hW9vfL61VG04&usqp=CAU">
+  <img alt="Animação SVG" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuRN-sU7k4ZiT-8RrlBZQWlUOhiX7qDaBl4A9MJuvscOX156LCIoITFq_hW9vfL61VG04&usqp=CAU" width="100%">
+</picture>
