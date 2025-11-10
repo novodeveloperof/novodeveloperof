@@ -56,11 +56,5 @@
 </details>
 
 
-![banner_updated-no-preferences](https://github.com/user-attachments/assets/fb1eb678-e06d-4dd5-8faa-f60b286e4f4b)
-![banner_updated-no-preferences](https://github.com/user-attachments/assets/fb1eb678-e06d-4dd5-8faa-f60b286e4f4b)
-
-
-
-
 
 
