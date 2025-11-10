@@ -5,6 +5,7 @@
   <source media="(prefers-color-scheme: dark) and (max-width: 935px)" srcset="https://github.com/user-attachments/assets/38d307a3-9ca9-43b0-a3cc-f705367ac752">
   <source media="(prefers-color-scheme: dark) and (min-width: 936px)" srcset="https://github.com/user-attachments/assets/5dd68e60-f85d-4935-b0ff-b32bed4e673a">
   <source media="(prefers-color-scheme: light) and (min-width: 936px)" srcset="https://github.com/user-attachments/assets/51d954e4-68bf-4573-bd63-021120833f27">
+  <source media="(prefers-color-scheme: no-preference) and (min-width: 936px)" srcset="https://github.com/user-attachments/assets/fb1eb678-e06d-4dd5-8faa-f60b286e4f4b">
   <img alt="Animação SVG" src="" >
 
 </picture>
@@ -52,7 +53,8 @@
 </details>
 
 
-![banner_updated-dark](https://github.com/user-attachments/assets/5dd68e60-f85d-4935-b0ff-b32bed4e673a)
+![banner_updated-no-preferences](https://github.com/user-attachments/assets/fb1eb678-e06d-4dd5-8faa-f60b286e4f4b)
+
 
 
 
