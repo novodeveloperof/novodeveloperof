@@ -10,7 +10,7 @@
   
   <source media="(max-width: 935px) and (prefers-color-scheme: light)" 
           srcset="https://github.com/user-attachments/assets/d3eb53b5-26cd-496d-aca2-31fe0f07df44">
-  <img alt="Animação SVG" src="https://github.com/user-attachments/assets/fb1eb678-e06d-4dd5-8faa-f60b286e4f4b">
+  <img alt="Animação SVG" src="">
 </picture>
 <details open>
   <summary>
