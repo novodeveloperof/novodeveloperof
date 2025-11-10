@@ -1,16 +1,27 @@
 <picture>
-  <source 
-    srcset="assets/dark-large.svg 936w, assets/dark-small.svg 935w"
+  <!-- Tema escuro -->
+  <source
     media="(prefers-color-scheme: dark)"
+    srcset="
+      assets/dark-small.svg 600w,
+      assets/dark-large.svg 936w
+    "
     sizes="(min-width: 936px) 936px, 100vw"
   >
-  <source 
-    srcset="assets/light-large.svg 936w, assets/light-small.svg 935w"
+
+  <!-- Tema claro -->
+  <source
     media="(prefers-color-scheme: light)"
+    srcset="
+      assets/light-small.svg 600w,
+      assets/light-large.svg 936w
+    "
     sizes="(min-width: 936px) 936px, 100vw"
   >
-  <img src="assets/light-small.png" alt="Imagem responsiva com tema">
+
+  <img src="assets/light-small.svg" alt="Imagem responsiva com tema">
 </picture>
+
 
 <details open>
   <summary>
