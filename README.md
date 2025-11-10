@@ -1,17 +1,24 @@
 <picture>
+  <!-- Tema Escuro - Tela maior ou igual a 936px -->
   <source media="(min-width: 936px) and (prefers-color-scheme: dark)" 
           srcset="https://github.com/user-attachments/assets/5dd68e60-f85d-4935-b0ff-b32bed4e673a"> 
 
-
+  <!-- Tema Claro - Tela maior ou igual a 936px -->
   <source media="(min-width: 936px) and (prefers-color-scheme: light)" 
           srcset="https://github.com/user-attachments/assets/51d954e4-68bf-4573-bd63-021120833f27"> 
+
+  <!-- Tema Escuro - Tela menor que 936px -->
   <source media="(max-width: 935px) and (prefers-color-scheme: dark)" 
           srcset="https://github.com/user-attachments/assets/5e3f90ad-db59-4a2c-90e5-a768cdf0edf9">
-  
+
+  <!-- Tema Claro - Tela menor que 936px -->
   <source media="(max-width: 935px) and (prefers-color-scheme: light)" 
           srcset="https://github.com/user-attachments/assets/d3eb53b5-26cd-496d-aca2-31fe0f07df44">
-  <img alt="Animação SVG" src="">
+
+  <!-- Imagem de fallback caso nenhuma condição seja atendida -->
+  <img alt="Animação SVG" src="https://github.com/user-attachments/assets/5e3f90ad-db59-4a2c-90e5-a768cdf0edf9">
 </picture>
+
 <details open>
   <summary>
     <span style="display: inline-flex; align-items: center; gap: 4px;">
