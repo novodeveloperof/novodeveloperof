@@ -1,15 +1,29 @@
+
 <picture>
-  <source
+  <source 
+    srcset="assets/dark-large.svg" 
+    media="(min-width: 768px) and (prefers-color-scheme: dark)"
+  >
+  
+  <source 
+    srcset="assets/light-large.svg" 
+    media="(min-width: 768px)"
+  >
+  
+  <source 
+    srcset="assets/dark-small.svg" 
     media="(prefers-color-scheme: dark)"
-    srcset="assets/dark-small.svg 600w, assets/dark-large.svg 936w"
-    sizes="(min-width: 936px) 936px, 100vw"
   >
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="assets/light-small.svg 600w, assets/light-large.svg 936w"
-    sizes="(min-width: 936px) 936px, 100vw"
-  >
-  <img src="assets/light-small.png" alt="Imagem responsiva com tema">
+  <img 
+    src="assets/light-small.svg" 
+    alt="Imagem que se adapta ao tema e ao dispositivo."
+    style="
+      width: 100%; 
+      max-width: 900px; 
+      min-width: 150px; 
+      height: auto;
+    "
+  />
 </picture>
 
 
