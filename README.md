@@ -6,7 +6,7 @@
           srcset="A URL da imagem CLARA para telas PEQUENAS AQUI">
           
   <source media="(prefers-color-scheme: no-preference) and (max-width: 935px)" 
-          srcset="A URL da imagem NEUTRA para telas PEQUENAS AQUI">
+          srcset="https://github.com/user-attachments/assets/fb1eb678-e06d-4dd5-8faa-f60b286e4f4b">
 
   ---
   
@@ -63,6 +63,3 @@
     <img alt="Animação SVG" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuRN-sU7k4ZiT-8RrlBZQWlUOhiX7qDaBl4A9MJuvscOX156LCIoITFq_hW9vfL61VG04&usqp=CAU">
   </picture>
 </details>
-
-<!-- Imagem de banner para tema neutro -->
-![banner_updated-no-preferences](https://github.com/user-attachments/assets/fb1eb678-e06d-4dd5-8faa-f60b286e4f4b)
