@@ -55,9 +55,6 @@
 </picture>
 </details>
 
-![min-new-light](https://github.com/user-attachments/assets/d3eb53b5-26cd-496d-aca2-31fe0f07df44)
-![min-new-dark](https://github.com/user-attachments/assets/5e3f90ad-db59-4a2c-90e5-a768cdf0edf9)
-
 
 
 
