@@ -23,10 +23,9 @@
   </summary>
      <picture>
 
-  <source media="(prefers-color-scheme: dark) and (min-width: 936px)" srcset="https://github.com/user-attachments/assets/a9ba0a79-b2db-4e6e-947c-c1ea6ad961af">
+  <source media="(prefers-color-scheme: dark) and (min-width: 936px)" srcset="https://github.com/user-attachments/assets/ae3f7762-a5fa-4132-9d53-083a9fc017cb">
   <img alt="Animação SVG" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuRN-sU7k4ZiT-8RrlBZQWlUOhiX7qDaBl4A9MJuvscOX156LCIoITFq_hW9vfL61VG04&usqp=CAU" >
 </picture>
 </details>
 
-![my skills](https://github.com/user-attachments/assets/1d33063d-7a26-4c45-ab01-b8c47c2aebcf)
 
