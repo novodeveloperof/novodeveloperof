@@ -16,7 +16,7 @@
       </svg>
      <picture>
    
-  <source media="(prefers-color-scheme: dark) and (min-width: 936px)" srcset="https://github.com/user-attachments/assets/97369e7d-2b34-4a8a-8c05-c6cac71f091d">
+  <source media="(prefers-color-scheme: dark) and (min-width: 936px)" srcset="https://github.com/user-attachments/assets/1d33063d-7a26-4c45-ab01-b8c47c2aebcf">
   <img alt="Animação SVG" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuRN-sU7k4ZiT-8RrlBZQWlUOhiX7qDaBl4A9MJuvscOX156LCIoITFq_hW9vfL61VG04&usqp=CAU" >
 </picture>
       
@@ -27,4 +27,6 @@
   <img alt="Animação SVG" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuRN-sU7k4ZiT-8RrlBZQWlUOhiX7qDaBl4A9MJuvscOX156LCIoITFq_hW9vfL61VG04&usqp=CAU" >
 </picture>
 </details>
+
+![my skills](https://github.com/user-attachments/assets/1d33063d-7a26-4c45-ab01-b8c47c2aebcf)
 
