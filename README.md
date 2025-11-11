@@ -58,17 +58,19 @@
       </svg>
      <picture>
    
-  <source media="(prefers-color-scheme: dark) and (min-width: 936px)" srcset="https://github.com/user-attachments/assets/4d47cf39-b60a-4e25-9cd1-660b1000849b">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/4d47cf39-b60a-4e25-9cd1-660b1000849b">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/6145d0f2-341f-433d-ba7a-910fafe65651">
   <img alt="Animação SVG" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuRN-sU7k4ZiT-8RrlBZQWlUOhiX7qDaBl4A9MJuvscOX156LCIoITFq_hW9vfL61VG04&usqp=CAU" >
 </picture>
       
   </summary>
      <picture>
 
-  <source media="(prefers-color-scheme: dark) and (min-width: 936px)" srcset="https://github.com/user-attachments/assets/93565e09-1d08-4429-96c7-04d74d902860">
+  <source media="" srcset="https://github.com/user-attachments/assets/93565e09-1d08-4429-96c7-04d74d902860">
   <img alt="Animação SVG" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuRN-sU7k4ZiT-8RrlBZQWlUOhiX7qDaBl4A9MJuvscOX156LCIoITFq_hW9vfL61VG04&usqp=CAU" >
 </picture>
 </details>
+
 
 
 
