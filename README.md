@@ -36,7 +36,7 @@
       </svg>
      <picture>
    
-  <source media="(prefers-color-scheme: dark) and (min-width: 936px)" srcset="https://github.com/user-attachments/assets/8eb2e78b-29b8-457b-b1a3-bf1f221c5d67">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/8eb2e78b-29b8-457b-b1a3-bf1f221c5d67">
   <img alt="Animação SVG" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuRN-sU7k4ZiT-8RrlBZQWlUOhiX7qDaBl4A9MJuvscOX156LCIoITFq_hW9vfL61VG04&usqp=CAU" >
 </picture>
       
