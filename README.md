@@ -43,7 +43,7 @@
   </summary>
      <picture>
 
-  <source media="(prefers-color-scheme: dark) and (min-width: 936px)" srcset="https://github.com/user-attachments/assets/ec3b44bb-eacc-471e-a43c-93d85069a529">
+  <source media="" srcset="https://github.com/user-attachments/assets/ec3b44bb-eacc-471e-a43c-93d85069a529">
   <img alt="Animação SVG" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuRN-sU7k4ZiT-8RrlBZQWlUOhiX7qDaBl4A9MJuvscOX156LCIoITFq_hW9vfL61VG04&usqp=CAU" >
 </picture>
 </details>
